@@ -58,8 +58,7 @@ Contributions to Adaptive AI Questioning are welcome! Whether you're a developer
 
 
 **Thanks to Contributor
--> Navya Sharma
--> Ujjwal Maurya**
+-> Navya Sharma**
 
 
 **Contact:**
