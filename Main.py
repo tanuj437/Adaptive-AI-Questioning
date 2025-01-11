@@ -1,7 +1,7 @@
 import csv
 from ModelClass import *
 import pandas as pd
-
+import os
 rl_model = RLModel()
 
 rl_model.load_questions_from_csv("sat_world_and_us_history.csv") 
